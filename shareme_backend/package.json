@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@sanity/cli": "^3.2.6",
+    "styled-components": "^5.3.6"
+  }
+}
